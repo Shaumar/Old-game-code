@@ -1,0 +1,101 @@
+body{
+    background-image: url("backimage.jpg");
+    border-image-repeat:stretch;
+    
+}
+.game{
+    margin-left: 5vw;
+   
+    width:90vw;
+    margin-top:5vw;
+    height:90vh;
+   
+
+    
+  }
+  
+  .header{
+    
+  
+   
+  
+   text-align: center;
+   background-color:#001a33;
+   color:white;
+   height:5vw;
+   padding-top: 2vw;
+    
+  }
+  
+  .hurry{
+   
+    width:90vw;
+    text-align: center;
+    margin-top:5vw;
+    color:#ff4d4d;
+
+  }
+  
+
+  .fix-word{
+    
+    width:90vw;
+    text-align: center;
+    margin-top: 3rem;
+   
+   
+  
+  }
+
+  .enter-answer{
+    
+    border:1px solid ;
+    width:15rem;
+    height:3rem;
+    border:1px solid;
+    border-radius:2px;
+    margin-right: 4vw;
+    text-align: center;
+    font-size: 1rem;
+    margin-top:10rem;
+    
+  }
+
+  .btn{
+    border:1px solid;
+    width:10rem;
+    height:3.2rem;
+    
+    background-color:#001a33;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .ques{
+  
+    width:20rem;
+     padding:2rem;
+    font-size: 2rem;
+  
+    color:white;
+    border-radius: 5px;
+    
+
+    
+  }
+
+  .plbtn{
+    margin-left: 40vw;
+    margin-top:2vw;
+    border:1px solid;
+    width:10rem;
+    height:3.2rem;
+    background-color:#001a33;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+
+  }
+
+ 
